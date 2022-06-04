@@ -1,0 +1,31 @@
+#ifndef CONSTANTES_H_INCLUDED
+#define CONSTANTES_H_INCLUDED
+
+#define FORMATO_IMAGEN "P2"
+#define CARACTER_COMENTARIO '#'
+#define DELIMITADOR " "
+
+#define FUNCION_EXPONENCIAL "exp"
+#define FUNCION_REAL "re"
+#define FUNCION_IMAGINARIA "im"
+#define FUNCION_LOGARITMO "ln"
+#define FUNCION_ABS "abs"
+#define FUNCION_PHASE "phase"
+#define FUNCION_SENO "sin"
+#define FUNCION_COSENO "cos"
+#define FUNCION_MAX "max"
+
+#define NUMERO_IMAGINARIO "i"
+#define VARIABLE_INDEPENDIENTE "z"
+#define PARENTESIS_IZQUIERDO "("
+#define PARENTESIS_DERECHO ")"
+#define VARIABLE_PI "pi"
+#define VARIABLE_PI_NEGADO "-pi"
+
+#define OPERADOR_POTENCIA "^"
+#define OPERADOR_SUMA "+"
+#define OPERADOR_SUSTRACCION "-"
+#define OPERADOR_DIVISION "/"
+#define OPERADOR_MULTIPLICACION "*"
+
+#endif
